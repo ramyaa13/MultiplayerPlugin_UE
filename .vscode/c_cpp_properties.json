@@ -1,0 +1,14 @@
+{
+	"configurations": [
+		{
+			"name": "Multiplayer_MenuSysEditor Editor Win64 Development (Multiplayer_MenuSys)",
+			"intelliSenseMode": "msvc-x64",
+			"compileCommands": "D:\\UnrealProjects\\Multiplayer_MenuSys\\.vscode\\compileCommands_Multiplayer_MenuSys.json"
+		},
+		{
+			"name": "Win32",
+			"intelliSenseMode": "msvc-x64",
+			"compileCommands": "D:\\UnrealProjects\\Multiplayer_MenuSys\\.vscode\\compileCommands_Default.json"
+		}
+	]
+}

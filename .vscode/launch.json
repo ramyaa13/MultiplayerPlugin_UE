@@ -1,0 +1,152 @@
+{
+	"version": "0.2.0",
+	"configurations": [
+		{
+			"name": "Launch Multiplayer_MenuSys (Debug)",
+			"request": "launch",
+			"program": "D:\\UnrealProjects\\Multiplayer_MenuSys\\Binaries\\Win64\\UnrealGame-Win64-Debug.exe",
+			"preLaunchTask": "Multiplayer_MenuSys Win64 Debug Build",
+			"args": [
+			],
+			"cwd": "C:\\Ramya\\Unreal\\UE_5.0",
+			"stopAtEntry": false,
+			"console": "externalTerminal",
+			"type": "cppvsdbg",
+			"visualizerFile": "C:\\Ramya\\Unreal\\UE_5.0\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
+			"sourceFileMap": {
+				"D:\build\++UE5\Sync": "C:\\Ramya\\Unreal\\UE_5.0"
+			}
+		},
+		{
+			"name": "Launch Multiplayer_MenuSys (DebugGame)",
+			"request": "launch",
+			"program": "D:\\UnrealProjects\\Multiplayer_MenuSys\\Binaries\\Win64\\UnrealGame-Win64-DebugGame.exe",
+			"preLaunchTask": "Multiplayer_MenuSys Win64 DebugGame Build",
+			"args": [
+			],
+			"cwd": "C:\\Ramya\\Unreal\\UE_5.0",
+			"stopAtEntry": false,
+			"console": "externalTerminal",
+			"type": "cppvsdbg",
+			"visualizerFile": "C:\\Ramya\\Unreal\\UE_5.0\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
+			"sourceFileMap": {
+				"D:\build\++UE5\Sync": "C:\\Ramya\\Unreal\\UE_5.0"
+			}
+		},
+		{
+			"name": "Launch Multiplayer_MenuSys (Development)",
+			"request": "launch",
+			"program": "D:\\UnrealProjects\\Multiplayer_MenuSys\\Binaries\\Win64\\UnrealGame.exe",
+			"preLaunchTask": "Multiplayer_MenuSys Win64 Development Build",
+			"args": [
+			],
+			"cwd": "C:\\Ramya\\Unreal\\UE_5.0",
+			"stopAtEntry": false,
+			"console": "externalTerminal",
+			"type": "cppvsdbg",
+			"visualizerFile": "C:\\Ramya\\Unreal\\UE_5.0\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
+			"sourceFileMap": {
+				"D:\build\++UE5\Sync": "C:\\Ramya\\Unreal\\UE_5.0"
+			}
+		},
+		{
+			"name": "Launch Multiplayer_MenuSys (Test)",
+			"request": "launch",
+			"program": "D:\\UnrealProjects\\Multiplayer_MenuSys\\Binaries\\Win64\\UnrealGame-Win64-Test.exe",
+			"preLaunchTask": "Multiplayer_MenuSys Win64 Test Build",
+			"args": [
+			],
+			"cwd": "C:\\Ramya\\Unreal\\UE_5.0",
+			"stopAtEntry": false,
+			"console": "externalTerminal",
+			"type": "cppvsdbg",
+			"visualizerFile": "C:\\Ramya\\Unreal\\UE_5.0\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
+			"sourceFileMap": {
+				"D:\build\++UE5\Sync": "C:\\Ramya\\Unreal\\UE_5.0"
+			}
+		},
+		{
+			"name": "Launch Multiplayer_MenuSys (Shipping)",
+			"request": "launch",
+			"program": "D:\\UnrealProjects\\Multiplayer_MenuSys\\Binaries\\Win64\\UnrealGame-Win64-Shipping.exe",
+			"preLaunchTask": "Multiplayer_MenuSys Win64 Shipping Build",
+			"args": [
+			],
+			"cwd": "C:\\Ramya\\Unreal\\UE_5.0",
+			"stopAtEntry": false,
+			"console": "externalTerminal",
+			"type": "cppvsdbg",
+			"visualizerFile": "C:\\Ramya\\Unreal\\UE_5.0\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
+			"sourceFileMap": {
+				"D:\build\++UE5\Sync": "C:\\Ramya\\Unreal\\UE_5.0"
+			}
+		},
+		{
+			"name": "Launch Multiplayer_MenuSysEditor (Debug)",
+			"request": "launch",
+			"program": "C:\\Ramya\\Unreal\\UE_5.0\\Engine\\Binaries\\Win64\\UnrealEditor-Win64-Debug.exe",
+			"preLaunchTask": "Multiplayer_MenuSysEditor Win64 Debug Build",
+			"args": [
+				"D:\\UnrealProjects\\Multiplayer_MenuSys\\Multiplayer_MenuSys.uproject"
+			],
+			"cwd": "C:\\Ramya\\Unreal\\UE_5.0",
+			"stopAtEntry": false,
+			"console": "externalTerminal",
+			"type": "cppvsdbg",
+			"visualizerFile": "C:\\Ramya\\Unreal\\UE_5.0\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
+			"sourceFileMap": {
+				"D:\build\++UE5\Sync": "C:\\Ramya\\Unreal\\UE_5.0"
+			}
+		},
+		{
+			"name": "Launch Multiplayer_MenuSysEditor (DebugGame)",
+			"request": "launch",
+			"program": "C:\\Ramya\\Unreal\\UE_5.0\\Engine\\Binaries\\Win64\\UnrealEditor-Win64-DebugGame.exe",
+			"preLaunchTask": "Multiplayer_MenuSysEditor Win64 DebugGame Build",
+			"args": [
+				"D:\\UnrealProjects\\Multiplayer_MenuSys\\Multiplayer_MenuSys.uproject"
+			],
+			"cwd": "C:\\Ramya\\Unreal\\UE_5.0",
+			"stopAtEntry": false,
+			"console": "externalTerminal",
+			"type": "cppvsdbg",
+			"visualizerFile": "C:\\Ramya\\Unreal\\UE_5.0\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
+			"sourceFileMap": {
+				"D:\build\++UE5\Sync": "C:\\Ramya\\Unreal\\UE_5.0"
+			}
+		},
+		{
+			"name": "Launch Multiplayer_MenuSysEditor (Development)",
+			"request": "launch",
+			"program": "C:\\Ramya\\Unreal\\UE_5.0\\Engine\\Binaries\\Win64\\UnrealEditor.exe",
+			"preLaunchTask": "Multiplayer_MenuSysEditor Win64 Development Build",
+			"args": [
+				"D:\\UnrealProjects\\Multiplayer_MenuSys\\Multiplayer_MenuSys.uproject"
+			],
+			"cwd": "C:\\Ramya\\Unreal\\UE_5.0",
+			"stopAtEntry": false,
+			"console": "externalTerminal",
+			"type": "cppvsdbg",
+			"visualizerFile": "C:\\Ramya\\Unreal\\UE_5.0\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
+			"sourceFileMap": {
+				"D:\build\++UE5\Sync": "C:\\Ramya\\Unreal\\UE_5.0"
+			}
+		},
+		{
+			"name": "Generate Project Files",
+			"type": "coreclr",
+			"request": "launch",
+			"program": "C:\\Ramya\\Unreal\\UE_5.0\\Engine\\Binaries\\DotNET\\UnrealBuildTool\\UnrealBuildTool",
+			"args": [
+				"-projectfiles",
+				"-vscode",
+				"-project=D:\\UnrealProjects\\Multiplayer_MenuSys\\Multiplayer_MenuSys.uproject",
+				"-game",
+				"-engine"
+			],
+			"console": "externalTerminal",
+			"stopAtEntry": false,
+			"cwd": "C:\\Ramya\\Unreal\\UE_5.0"
+		}
+	]
+}

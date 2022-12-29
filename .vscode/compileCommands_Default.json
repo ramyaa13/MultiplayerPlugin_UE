@@ -1,0 +1,82 @@
+[
+	{
+		"file": "D:\\UnrealProjects\\Multiplayer_MenuSys\\Plugins\\MultiplayerSession\\Source\\MultiplayerSession\\MultiplayerSession.Build.cs",
+		"command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.32.31326\\bin\\HostX64\\x64\\cl.exe\" @D:\\UnrealProjects\\Multiplayer_MenuSys\\.vscode\\compileCommands_Default\\MultiplayerSession.46.rsp",
+		"directory": "C:\\Ramya\\Unreal\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "D:\\UnrealProjects\\Multiplayer_MenuSys\\Plugins\\MultiplayerSession\\Source\\MultiplayerSession\\Private\\Menu.cpp",
+		"command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.32.31326\\bin\\HostX64\\x64\\cl.exe\" @D:\\UnrealProjects\\Multiplayer_MenuSys\\.vscode\\compileCommands_Default\\MultiplayerSession.46.rsp",
+		"directory": "C:\\Ramya\\Unreal\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "D:\\UnrealProjects\\Multiplayer_MenuSys\\Plugins\\MultiplayerSession\\Source\\MultiplayerSession\\Private\\MultiplayerSession.cpp",
+		"command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.32.31326\\bin\\HostX64\\x64\\cl.exe\" @D:\\UnrealProjects\\Multiplayer_MenuSys\\.vscode\\compileCommands_Default\\MultiplayerSession.46.rsp",
+		"directory": "C:\\Ramya\\Unreal\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "D:\\UnrealProjects\\Multiplayer_MenuSys\\Plugins\\MultiplayerSession\\Source\\MultiplayerSession\\Private\\MultiplayerSessionSubsystem.cpp",
+		"command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.32.31326\\bin\\HostX64\\x64\\cl.exe\" @D:\\UnrealProjects\\Multiplayer_MenuSys\\.vscode\\compileCommands_Default\\MultiplayerSession.46.rsp",
+		"directory": "C:\\Ramya\\Unreal\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "D:\\UnrealProjects\\Multiplayer_MenuSys\\Plugins\\MultiplayerSession\\Source\\MultiplayerSession\\Public\\Menu.h",
+		"command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.32.31326\\bin\\HostX64\\x64\\cl.exe\" @D:\\UnrealProjects\\Multiplayer_MenuSys\\.vscode\\compileCommands_Default\\MultiplayerSession.46.rsp",
+		"directory": "C:\\Ramya\\Unreal\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "D:\\UnrealProjects\\Multiplayer_MenuSys\\Plugins\\MultiplayerSession\\Source\\MultiplayerSession\\Public\\MultiplayerSession.h",
+		"command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.32.31326\\bin\\HostX64\\x64\\cl.exe\" @D:\\UnrealProjects\\Multiplayer_MenuSys\\.vscode\\compileCommands_Default\\MultiplayerSession.46.rsp",
+		"directory": "C:\\Ramya\\Unreal\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "D:\\UnrealProjects\\Multiplayer_MenuSys\\Plugins\\MultiplayerSession\\Source\\MultiplayerSession\\Public\\MultiplayerSessionSubsystem.h",
+		"command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.32.31326\\bin\\HostX64\\x64\\cl.exe\" @D:\\UnrealProjects\\Multiplayer_MenuSys\\.vscode\\compileCommands_Default\\MultiplayerSession.46.rsp",
+		"directory": "C:\\Ramya\\Unreal\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "D:\\UnrealProjects\\Multiplayer_MenuSys\\Source\\Multiplayer_MenuSys\\LobbyGameMode.cpp",
+		"command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.32.31326\\bin\\HostX64\\x64\\cl.exe\" @D:\\UnrealProjects\\Multiplayer_MenuSys\\.vscode\\compileCommands_Default\\Multiplayer_MenuSys.214.rsp",
+		"directory": "C:\\Ramya\\Unreal\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "D:\\UnrealProjects\\Multiplayer_MenuSys\\Source\\Multiplayer_MenuSys\\LobbyGameMode.h",
+		"command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.32.31326\\bin\\HostX64\\x64\\cl.exe\" @D:\\UnrealProjects\\Multiplayer_MenuSys\\.vscode\\compileCommands_Default\\Multiplayer_MenuSys.214.rsp",
+		"directory": "C:\\Ramya\\Unreal\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "D:\\UnrealProjects\\Multiplayer_MenuSys\\Source\\Multiplayer_MenuSys\\Multiplayer_MenuSys.Build.cs",
+		"command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.32.31326\\bin\\HostX64\\x64\\cl.exe\" @D:\\UnrealProjects\\Multiplayer_MenuSys\\.vscode\\compileCommands_Default\\Multiplayer_MenuSys.214.rsp",
+		"directory": "C:\\Ramya\\Unreal\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "D:\\UnrealProjects\\Multiplayer_MenuSys\\Source\\Multiplayer_MenuSys\\Multiplayer_MenuSys.cpp",
+		"command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.32.31326\\bin\\HostX64\\x64\\cl.exe\" @D:\\UnrealProjects\\Multiplayer_MenuSys\\.vscode\\compileCommands_Default\\Multiplayer_MenuSys.214.rsp",
+		"directory": "C:\\Ramya\\Unreal\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "D:\\UnrealProjects\\Multiplayer_MenuSys\\Source\\Multiplayer_MenuSys\\Multiplayer_MenuSys.h",
+		"command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.32.31326\\bin\\HostX64\\x64\\cl.exe\" @D:\\UnrealProjects\\Multiplayer_MenuSys\\.vscode\\compileCommands_Default\\Multiplayer_MenuSys.214.rsp",
+		"directory": "C:\\Ramya\\Unreal\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "D:\\UnrealProjects\\Multiplayer_MenuSys\\Source\\Multiplayer_MenuSys\\Multiplayer_MenuSysCharacter.cpp",
+		"command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.32.31326\\bin\\HostX64\\x64\\cl.exe\" @D:\\UnrealProjects\\Multiplayer_MenuSys\\.vscode\\compileCommands_Default\\Multiplayer_MenuSys.214.rsp",
+		"directory": "C:\\Ramya\\Unreal\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "D:\\UnrealProjects\\Multiplayer_MenuSys\\Source\\Multiplayer_MenuSys\\Multiplayer_MenuSysCharacter.h",
+		"command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.32.31326\\bin\\HostX64\\x64\\cl.exe\" @D:\\UnrealProjects\\Multiplayer_MenuSys\\.vscode\\compileCommands_Default\\Multiplayer_MenuSys.214.rsp",
+		"directory": "C:\\Ramya\\Unreal\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "D:\\UnrealProjects\\Multiplayer_MenuSys\\Source\\Multiplayer_MenuSys\\Multiplayer_MenuSysGameMode.cpp",
+		"command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.32.31326\\bin\\HostX64\\x64\\cl.exe\" @D:\\UnrealProjects\\Multiplayer_MenuSys\\.vscode\\compileCommands_Default\\Multiplayer_MenuSys.214.rsp",
+		"directory": "C:\\Ramya\\Unreal\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "D:\\UnrealProjects\\Multiplayer_MenuSys\\Source\\Multiplayer_MenuSys\\Multiplayer_MenuSysGameMode.h",
+		"command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.32.31326\\bin\\HostX64\\x64\\cl.exe\" @D:\\UnrealProjects\\Multiplayer_MenuSys\\.vscode\\compileCommands_Default\\Multiplayer_MenuSys.214.rsp",
+		"directory": "C:\\Ramya\\Unreal\\UE_5.0\\Engine\\Source"
+	}
+]
